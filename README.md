@@ -154,5 +154,4 @@ terraform destroy
 
 ---
 
-## Репозиторий
-https://github.com/BlackDeepSky/de-zoomcamp-hw1
+Выполнено в рамках обучения на курсе [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
